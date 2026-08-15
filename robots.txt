@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xz1gdl.cingbet138.site/sitemap.xml
